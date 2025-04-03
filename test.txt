@@ -1,0 +1,6 @@
+Credit card
+Marx Igor 4009 7008 6005 4319
+Name	EXP. Date	Address
+John Lito	2/6/15	104 Ygnacio valley rd, Walnut creek, CA 94598
+Jane Smith	2/7/15	103 Ygnacio valley rd, Walnut creek, CA 94598
+John Smith	2/8/15	1011 Ygnacio valley rd, Walnut cree
